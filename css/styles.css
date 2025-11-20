@@ -64,7 +64,11 @@ thead th {
 }
 tbody tr:hover {
     background-color: #f8f8f8;
-    color: #ffffff;
+    color: #191E26;
+}
+.container tbody,
+.container tbody td {
+    color: #FFFFFF;
 }
 .hidden {
     display: none;
