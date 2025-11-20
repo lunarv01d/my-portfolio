@@ -2,6 +2,7 @@ body {
     background-color: #ffffff;
     font-family:Cambria, Cochin, Georgia, Montserrat, sans-serif;
     line-height: 1.6;
+    color: #F2F2F0;
 }
 .container {
     width: 800px;
@@ -62,4 +63,7 @@ thead th {
 }
 tbody tr:hover {
     background-color: #f8f8f8
+}
+.hidden {
+    display: none;
 }
